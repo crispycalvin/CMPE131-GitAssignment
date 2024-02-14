@@ -7,5 +7,6 @@ int main() {
     cout << "test" << endl;
 
     cout << "Branch Change" << endl;
+    cout << "This is the new merge code" << endl;
     return 0;
 }
